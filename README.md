@@ -23,4 +23,4 @@ to your hyprland.lua file
 
 - ttf-jetbrains-mono-nerd
 
-## Restart Hyprland
+## Restart Hyprland session
