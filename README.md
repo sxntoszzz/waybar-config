@@ -6,7 +6,7 @@ My Waybar Config
 
 git clone git@github.com:sxntoszzz/waybar-config.git ~/.config/waybar 
 
-Add:
+## Add:
 
 hl.workspace_rule({
     workspace = "1",
@@ -15,4 +15,10 @@ hl.workspace_rule({
 
 to your hyprland.lua file
 
-Restart Hyprland
+## Extern Utilities:
+
+-swaync
+-pavucontrol
+-wofi
+
+## Restart Hyprland
