@@ -15,8 +15,9 @@ to your hyprland.lua file
 
 ## Extern Utilities:
 
--swaync
--pavucontrol
--wofi
+- ttf-jetbrains-mono-nerd
+- swaync
+- pavucontrol
+- wofi
 
 ## Restart Hyprland
