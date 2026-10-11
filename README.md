@@ -15,9 +15,12 @@ to your hyprland.lua file
 
 ## Extern Utilities:
 
-- ttf-jetbrains-mono-nerd
 - swaync
 - pavucontrol
 - wofi
+
+## Font:
+
+- ttf-jetbrains-mono-nerd
 
 ## Restart Hyprland
