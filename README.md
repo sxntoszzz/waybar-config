@@ -2,7 +2,7 @@
 
 ## How to use
 
-git clone git@github.com:sxntoszzz/waybar-config.git ~/.config/waybar 
+git clone https://github.com/sxntoszzz/waybar-config.git ~/.config/waybar
 
 ## Add:
 
