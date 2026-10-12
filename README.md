@@ -1,7 +1,9 @@
 ![](imgs/waybarondesktop.png)
 ![](imgs/desktop.png)
 
-# Waybar Config
+# Waybar Features
+
+This Waybar features: Wofi Menu, Workspaces, Clock (with calendar on hover), Volume Control, Wi-Fi Management, Battery and Notifications Centre.
 
 ## How to use
 
