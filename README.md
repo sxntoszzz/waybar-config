@@ -1,4 +1,3 @@
-![](imgs/waybarondesktop.png)
 ![](imgs/desktop.png)
 
 # Waybar Features
