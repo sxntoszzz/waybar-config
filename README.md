@@ -1,5 +1,5 @@
-![](desktop.png)
 ![](waybarondesktop.png)
+![](desktop.png)
 
 # Waybar Config
 
