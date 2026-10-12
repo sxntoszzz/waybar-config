@@ -1,8 +1,11 @@
+
+
+
 # Waybar Config
 
 ## How to use
 
-git clone https://github.com/sxntoszzz/waybar-config.git ~/.config/waybar
+git clone [https://github.com/sxntoszzz/waybar-config.git](https://github.com/sxntoszzz/waybar-config.git) ~/.config/waybar
 
 ## Add:
 
@@ -13,7 +16,9 @@ to your hyprland.lua file
 ## Extern Utilities:
 
 - swaync
+
 - pavucontrol
+
 - wofi
 
 ## Font:
@@ -21,3 +26,4 @@ to your hyprland.lua file
 - ttf-jetbrains-mono-nerd
 
 ## Restart Hyprland session
+
