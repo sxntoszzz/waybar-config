@@ -1,8 +1,11 @@
+![](desktop.png)
+![](waybarondesktop.png)
+
 # Waybar Config
 
 ## How to use
 
-git clone [https://github.com/sxntoszzz/waybar-config.git](https://github.com/sxntoszzz/waybar-config.git) ~/.config/waybar
+git clone https://github.com/sxntoszzz/waybar-config.git ~/.config/waybar
 
 ## Add:
 
