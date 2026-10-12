@@ -1,6 +1,3 @@
-
-
-
 # Waybar Config
 
 ## How to use
