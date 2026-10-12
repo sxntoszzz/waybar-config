@@ -14,6 +14,9 @@ hl.workspace\_rule(\{ workspace = "1", persistent = true, \})
 
 to your hyprland.lua file
 
+if on hyprland.conf:
+- workspace = 1, persistent:true
+
 ## Extern Utilities:
 
 - swaync
